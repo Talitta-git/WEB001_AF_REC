@@ -1,0 +1,9 @@
+CLONAR REPOSITORIO-git clone https://github.com/Talitta-git/WEB001_AF_REC.git
+cd WEB001_AF_REC
+git add "nome.txt"
+git add "lembrete.txt"
+git add "comandos.txt"
+git status 
+git commit -m "recuperacao"
+git push origin master
+usuario usuario e senha git hub
