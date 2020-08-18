@@ -6,4 +6,5 @@ git add "comandos.txt"
 git status 
 git commit -m "recuperacao"
 git push origin master
-usuario usuario e senha git hub
+usuario e senha git hub
+git pull
